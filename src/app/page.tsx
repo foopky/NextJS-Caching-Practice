@@ -12,6 +12,9 @@ export default function page() {
       <Link className="border border-gray-500" href="/route_cache/b">
         b Page
       </Link>
+      <Link className="border border-gray-500" href="/request_memoization">
+        Request Memoization
+      </Link>
     </>
   );
 }
